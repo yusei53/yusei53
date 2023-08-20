@@ -26,8 +26,7 @@
 
 ![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=yusei53&theme=onedark)
  
- 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=yusei53&layout=compact&langs&theme=onedark&count=6)](https://github.com/anuraghazra/github-readme-stats)
+
 
 
 
