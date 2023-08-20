@@ -1,7 +1,4 @@
-### Hi there 👋
 
-
-![Visitors](https://visitor-badge.glitch.me/badge?page_id=yusei53&left_color=gray&right_color=blue)
  
 ![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=yusei53&theme=vue)
  
