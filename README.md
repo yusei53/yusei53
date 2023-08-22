@@ -8,6 +8,8 @@
 
 - I aspire to become an accomplished **frontend engineer.**
 
+- 技育Campハッカソンで[Liscript](https://github.com/geekcamp2023-vol5-team32/liscript)を作成→Chatwork株式会社様から企業賞受賞。技育展,アドバンスハッカソン出場
+
 <p align="left">
 </p>
 
