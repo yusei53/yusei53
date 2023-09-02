@@ -34,6 +34,7 @@
 | [Liscript](https://github.com/geekcamp2023-vol5-team32/liscript) | whisperAI&ChatGPTのAPIを使った翻訳要約アプリ(MTGの議事録、授業の内容振り返り等)。技育CampハッカソンでChatWork株式会社様から企業賞受賞/技育展・アドバンスハッカソン出場 |
 | [二次元への扉](https://github.com/RozeSullatui/voicevox_hackthon) | 初めての01チーム開発/初めてreactを触った/ChatGPTのAPIを使って二次元キャラクターと会話ができるchatアプリ |
 | [タイプロ](https://github.com/yusei53/typing_game) | タイピングしながらプログラミングの知識を取得する駆け出しエンジニア向けアプリ(コミット期間は一週間ほどで、未完成)|
+| [ベテランすまい](https://github.com/yusei53/Veteran-home) | 初rails開発。サマーインターン(開発期間7日)で開発。家を売りたいが、どの不動産に頼めばいいかわからないユーザーの課題に対してのプロダクト|
 
  
 
