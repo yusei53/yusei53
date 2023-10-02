@@ -35,6 +35,9 @@
 | [二次元への扉](https://github.com/RozeSullatui/voicevox_hackthon) | 初めての01チーム開発/初めてreactを触った/ChatGPTのAPIを使って二次元キャラクターと会話ができるchatアプリ |
 | [タイプロ](https://github.com/yusei53/typing_game) | タイピングしながらプログラミングの知識を取得する駆け出しエンジニア向けアプリ(コミット期間は一週間ほどで、未完成)|
 | [ベテランすまい](https://github.com/yusei53/Veteran-home) | 初rails開発。サマーインターン(開発期間7日)で開発。家を売りたいが、どの不動産に頼めばいいかわからないユーザーの課題に対してのプロダクト|
+| [ゆせのportfolio](https://github.com/yusei53/yusei53-portfolio) |next.jsとtypescriptを使って個人開発しました。なんだかんだこの技術スタックで個人開発は初でした|
+| [イーズミー](https://github.com/sansan-event-fusion/spark-2023-teamP) |同じ目的を持った人同士が出会える環境を提供するアプリ。sansan株式会社で準優勝|
+
 
  
 
