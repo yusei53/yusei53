@@ -8,6 +8,8 @@
 
 - I aspire to become an accomplished **frontend engineer.**
 
+- Please look at the　[thispage](https://yusei53-portfolio.vercel.app/)!!!
+
 
 <p align="left">
 </p>
