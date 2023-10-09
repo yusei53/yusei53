@@ -4,7 +4,7 @@
 
 - 🌱 I’m currently learning **React and Rails!!**
 
-- 👨‍💻 Leading **Pech.Tech, a tech-savvy student community.**
+- 👨‍💻 Leading **Peach.Tech, a tech-savvy student community.**
 
 - I aspire to become an accomplished **frontend engineer.**
 
