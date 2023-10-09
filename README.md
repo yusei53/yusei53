@@ -1,6 +1,6 @@
  
-<h1 align="left">Hi 👋 I'm yusei Imamura</h1>
-<h3 align="left">University 3rd Year | Tennis Coach 🎾 | Pech.Tech President 👨‍💻</h3>
+<h1>Hi 👋 I'm yusei Imamura</h1>
+<h2>University 3rd Year | Tennis Coach 🎾 | Peach.Tech President 👨‍💻</h2>
 
 - 🌱 I’m currently learning **React and Rails!!**
 
