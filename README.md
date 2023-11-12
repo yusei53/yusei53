@@ -39,6 +39,8 @@
 | [ベテランすまい](https://github.com/yusei53/Veteran-home) | 初rails開発。サマーインターン(開発期間7日)で開発。家を売りたいが、どの不動産に頼めばいいかわからないユーザーの課題に対してのプロダクト|
 | [ゆせのportfolio](https://github.com/yusei53/yusei53-portfolio) |next.jsとtypescriptを使って個人開発しました。なんだかんだこの技術スタックで個人開発は初でした|
 | [イーズミー](https://github.com/sansan-event-fusion/spark-2023-teamP) |同じ目的を持った人同士が出会える環境を提供するアプリ。sansan株式会社で準優勝|
+| [Bunについての記事](https://github.com/yusei53/bun-app) |qiitaでBunとNodeの比較をした記事を書いた時のソースコード|
+| [vscode拡張機能](https://github.com/yusei53/vsvode-extensions-dev) |vscodeの拡張機能を作ってみる|
 
 
  
