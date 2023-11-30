@@ -26,8 +26,11 @@
   <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a>
 </p>
 
-
 ![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=yusei53&theme=onedark)
+
+[![trophy](https://github-profile-trophy.vercel.app/?username=yusei53&theme=onestar&no-bg=true
+)](https://github.com/ryo-ma/github-profile-trophy)
+
 <!--
 ## Products and others
 | Products | Abstract |
