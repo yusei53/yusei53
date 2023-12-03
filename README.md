@@ -26,6 +26,14 @@
   <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a>
 </p>
 
+<div>
+  <h3>私はts界のフリーザです</h3>
+  <a href="https://github.com/najah7/pokemon-stats-checker" target="_blank">
+    <img src="https://graph-bucket-sugiyama.s3.ap-northeast-1.amazonaws.com/yusei53/graph.png" width="300px" />
+  </a>
+  <p>powered by <a href="https://github.com/najah7/pokemon-stats-checker">エンジニア種族値チェッカー</a></p>
+</div>
+
 ![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=yusei53&theme=onedark)
 
 [![trophy](https://github-profile-trophy.vercel.app/?username=yusei53&theme=onestar&no-bg=true
