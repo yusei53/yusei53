@@ -27,7 +27,7 @@
 </p>
 
 <div>
-  <h3>私はts界のフリーザです</h3>
+  <h3>私はtypescript界のフリーザです</h3>
   <a href="https://github.com/najah7/pokemon-stats-checker" target="_blank">
     <img src="https://graph-bucket-sugiyama.s3.ap-northeast-1.amazonaws.com/yusei53/graph.png" width="300px" />
   </a>
