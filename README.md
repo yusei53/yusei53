@@ -6,6 +6,7 @@
 
 - **Please look at the [thispage](https://yusei53-portfolio.vercel.app/)!!!**
 
+<!--
 <div>
   <h3>私はtypescript界のフリーザーです</h3>
   <a href="https://github.com/najah7/pokemon-stats-checker" target="_blank">
@@ -13,6 +14,7 @@
   </a>
   <p>powered by <a href="https://github.com/najah7/pokemon-stats-checker">エンジニア種族値チェッカー</a></p>
 </div>
+-->
 
 ![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=yusei53&theme=onedark)
 
