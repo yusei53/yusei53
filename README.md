@@ -16,8 +16,6 @@
 </div>
 -->
 
-![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=yusei53&theme=onedark)
-
 [![trophy](https://github-profile-trophy.vercel.app/?username=yusei53&theme=onestar&no-bg=true
 )](https://github.com/ryo-ma/github-profile-trophy)
 
