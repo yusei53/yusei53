@@ -2,9 +2,9 @@
 <h1>Hi 👋 I'm yusei Imamura</h1>
 <h2>University 3rd Year | Tennis Coach 🎾 | Peach.Tech President 👨‍💻</h2>
 
-- 👨‍💻 Leading **Peach.Tech, a tech-savvy student community.**
+- Leading **Peach.Tech, a tech-savvy student community 👨‍💻 .**
 
-- **Please look at the [thispage](https://yusei53-portfolio.vercel.app/)!!!**
+- **Please look at the [thispage](https://yusei53-portfolio.vercel.app/)！**
 
 <!--
 <div>
