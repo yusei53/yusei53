@@ -1,6 +1,6 @@
  
 <h1>Hi 👋 I'm yusei Imamura</h1>
-<h2>University 3rd Year | Tennis Coach 🎾 | Peach.Tech President 👨‍💻</h2>
+<h2>University 4th Year | Tennis Coach 🎾 | PeachTech President 👨‍💻</h2>
 
 - Leading **Peach.Tech, a tech-savvy student community 👨‍💻 .**
 
