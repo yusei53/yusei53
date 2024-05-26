@@ -1,10 +1,8 @@
  
 <h1>Hi 👋 I'm yusei Imamura</h1>
-<h2>University 4th Year | Tennis Coach 🎾 | PeachTech President 👨‍💻</h2>
+<h2>senior in college | Tennis Coach 🎾 | PeachTech President 👨‍💻</h2>
 
-- Leading **Peach.Tech, a tech-savvy student community 👨‍💻 .**
-
-- **Please look at the [thispage](https://yusei53-portfolio.vercel.app/)！**
+- Leading **Peach.Tech, Student engineers' organisation 👨‍💻 .**
 
 <!--
 <div>
