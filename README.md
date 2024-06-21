@@ -14,8 +14,7 @@
 </div>
 -->
 
-[![trophy](https://github-profile-trophy.vercel.app/?username=yusei53&theme=onestar&no-bg=true
-)](https://github.com/ryo-ma/github-profile-trophy)
+![trophy](https://github-profile-trophy.vercel.app/?username=yusei53&theme=flat)
 
 <!--
 ## Products and others
